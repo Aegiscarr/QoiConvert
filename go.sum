@@ -1,2 +1,4 @@
 github.com/xfmoulet/qoi v0.2.0 h1:+Smrwzy5ptRnPzGm/YHkZfyK9qGUSoOpiEPngGmFv+c=
 github.com/xfmoulet/qoi v0.2.0/go.mod h1:uuPUygmV7o8qy7PhiaGAQX0iLiqoUvFEUKjwUFtlaTQ=
+golang.org/x/image v0.13.0 h1:3cge/F/QTkNLauhf2QoE9zp+7sr+ZcL4HnoZmdwg9sg=
+golang.org/x/image v0.13.0/go.mod h1:6mmbMOeV28HuMTgA6OSRkdXKYw/t5W9Uwn2Yv1r3Yxk=
